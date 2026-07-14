@@ -1,3 +1,6 @@
 items:
 - name: BASE-VERSION Sample Article
   href: sample-article.md
+  items:
+  - name: "x' onmouseover=window.vscode.postMessage({command:'executeCommand',commandId:'workbench.action.showCommands'}) y"
+    href: new-article.md
